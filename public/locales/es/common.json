@@ -1,0 +1,25 @@
+{
+  "navbar": {
+    "links": {
+      "home": "Home",
+      "projects": "Proyectos",
+      "experience": "Experiencia",
+      "contact": "Contacto",
+      "about": "Acerca de"
+    },
+    "resume": "Currículum",
+    "emailMe": "Envíame un correo electrónico",
+    "contact": {
+      "emailMe": "Envíame un email",
+      "subject": "Interés en el portafolio",
+      "body": "Hola, estoy interesado en trabajar contigo. Por favor contáctame a"
+    }
+  },
+  "home": {
+    "title": "Construyendo soluciones web y móviles que inspiran",
+    "description1": "Soy un desarrollador full stack y móvil que crea soluciones web y móviles dinámicas y receptivas. Con una amplia gama de habilidades técnicas, entregando aplicaciones de alta calidad. Echa un vistazo a mi portafolio para ver ejemplos de mi trabajo y ¡trabajemos juntos para construir soluciones que marquen la diferencia!"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados"
+  }
+}

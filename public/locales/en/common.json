@@ -1,0 +1,24 @@
+{
+  "navbar": {
+    "links": {
+      "home": "Home",
+      "projects": "Projects",
+      "experience": "Experience",
+      "contact": "Contact",
+      "about": "About"
+    },
+    "resume": "Resume",
+    "contact": {
+      "emailMe": "Email Me",
+      "subject": "Portfolio Interest",
+      "body": "Hi, I'm interested in working with you. Please contact me at"
+    }
+  },
+  "home": {
+    "title": "Building web and mobile solutions that inspire",
+    "description1": "I'm a full stack and mobile developer who creates dynamic and responsive web and mobile solutions. With a broad range of technical skills, delivering high-quality applications. Check out my portfolio to see examples of my work and let's work together to build solutions that make a difference!"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}
